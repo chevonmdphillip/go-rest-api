@@ -4,7 +4,7 @@ import "fmt"
 
 // Run - is going to be responsible for the init and startup of our application.
 func Run() error {
-	fmt.Println("starting up our applciation")
+	fmt.Println("starting up our application")
 	return nil
 }
 
